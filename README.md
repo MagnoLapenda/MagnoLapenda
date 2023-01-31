@@ -7,6 +7,8 @@
 
 ##
 
+### Ferramentas e linguagem atual de trabalho:
+
 <div style="display: inLine_block"><br>
   <img align="center" alt="Magno-py" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
