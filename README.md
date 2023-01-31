@@ -7,7 +7,6 @@
 
 ##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MagnoLapenda)](https://github.com/MagnoLapenda/github-readme-stats)
-##
 
 ### Ferramentas e linguagem atual de trabalho:
 
