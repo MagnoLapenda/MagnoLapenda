@@ -8,7 +8,7 @@
 ##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MagnoLapenda)](https://github.com/MagnoLapenda/github-readme-stats)
 ##
-### Ferramentas e linguagem atual de trabalho:
+### Ferramentas e linguagens atuais de trabalho:
 
 <div style="display: inLine_block"><br>
   <img align="center" alt="Magno-py" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
