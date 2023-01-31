@@ -1,5 +1,4 @@
-Olá! Me chamo Magno 👋
-##
+## Olá! Me chamo Magno 👋
 ### Atualmente sou engenheiro de dados júnior, pela BlueShift Brasil.
 
 - 🌱 Focando os estudos na plataforma Databricks
@@ -7,11 +6,8 @@ Olá! Me chamo Magno 👋
 - 📫 magnolapenda@gmail.com
 
 ##
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MagnoLapenda)](https://github.com/MagnoLapenda/github-readme-stats)
-
-###
-
+##
 ### Ferramentas e linguagem atual de trabalho:
 
 <div style="display: inLine_block"><br>
