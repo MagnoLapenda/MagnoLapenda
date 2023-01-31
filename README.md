@@ -27,3 +27,5 @@
   <img align="center" alt="Magno-py" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   
   <img align="center" alt="Magno-py" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MagnoLapenda)](https://github.com/MagnoLapenda/github-readme-stats)
